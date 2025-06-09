@@ -1,67 +1,14 @@
 Script ran at: 2025-06-03 19:36:29
 Script ran at: 2025-06-03 19:38:20
 Script ran at: 2025-06-03 20:09:52
-Script ran at: 2025-06-03 21:26:09
-Script ran at: 2025-06-03 21:30:30
-Script ran at: 2025-06-03 21:31:30
-Script ran at: 2025-06-03 21:32:30
-Script ran at: 2025-06-03 21:33:30
-Script ran at: 2025-06-03 21:34:30
-Script ran at: 2025-06-03 21:35:30
-Script ran at: 2025-06-03 21:36:30
-Script ran at: 2025-06-03 21:37:30
-Script ran at: 2025-06-03 21:38:30
-Script ran at: 2025-06-03 21:39:30
-Script ran at: 2025-06-03 21:40:30
-Script ran at: 2025-06-03 21:41:30
-Script ran at: 2025-06-03 21:42:30
-Script ran at: 2025-06-03 21:43:30
-Script ran at: 2025-06-03 21:44:30
-Script ran at: 2025-06-03 21:45:30
-Script ran at: 2025-06-03 21:46:31
-Script ran at: 2025-06-03 21:47:31
-Script ran at: 2025-06-03 21:48:31
-Script ran at: 2025-06-03 21:49:31
-Script ran at: 2025-06-03 21:50:30
-Script ran at: 2025-06-03 21:51:30
-Script ran at: 2025-06-03 21:52:30
-Script ran at: 2025-06-03 21:53:30
-Script ran at: 2025-06-03 21:54:30
-Script ran at: 2025-06-03 21:54:43
-Script ran at: 2025-06-03 21:55:30
-Script ran at: 2025-06-03 21:56:30
-Script ran at: 2025-06-03 21:57:30
-Script ran at: 2025-06-03 21:58:30
-Script ran at: 2025-06-03 21:59:30
-Script ran at: 2025-06-03 22:00:30
-Script ran at: 2025-06-03 22:01:30
-Script ran at: 2025-06-03 22:02:10
-Script ran at: 2025-06-03 22:02:30
-Script ran at: 2025-06-03 22:02:47
-Script ran at: 2025-06-03 22:03:30
-Script ran at: 2025-06-03 22:04:30
-Script ran at: 2025-06-03 22:05:30
-Script ran at: 2025-06-03 22:06:30
-Script ran at: 2025-06-03 22:07:30
-Script ran at: 2025-06-03 22:08:30
-Script ran at: 2025-06-03 22:09:30
-Script ran at: 2025-06-03 22:10:30
-Script ran at: 2025-06-03 22:11:30
-Script ran at: 2025-06-03 22:12:30
-Script ran at: 2025-06-03 22:13:30
-Script ran at: 2025-06-03 22:14:30
-Script ran at: 2025-06-03 22:15:30
-Script ran at: 2025-06-03 22:16:30
-Script ran at: 2025-06-03 22:17:30
-Script ran at: 2025-06-03 22:18:30
-Script ran at: 2025-06-03 22:19:30
-Script ran at: 2025-06-03 22:20:30
-Script ran at: 2025-06-03 22:21:31
-Script ran at: 2025-06-03 22:22:31
-Script ran at: 2025-06-03 20:54:30
-Script ran at: 2025-06-03 20:57:53
-Script ran at: 2025-06-04 01:46:04
-Script ran at: 2025-06-04 15:51:25
-Script ran at: 2025-06-04 15:51:57
-Script ran at: 2025-06-04 16:00:56
-Script ran at: 2025-06-04 16:01:19
+[2025-06-09 01:46:05] [INFO] === CRON JOB STARTED ===
+[2025-06-09 01:46:05] [INFO] FTP connected: ftpupload.net
+[2025-06-09 01:46:05] [INFO] File downloaded: /htdocs/stock.csv
+[2025-06-09 01:46:05] [INFO] FTP disconnected
+[2025-06-09 01:46:05] [INFO] Updating product: 295W0016 - Peugeot/Citroen 1.4 kW Starter
+[2025-06-09 01:46:05] [INFO] Updating product: 300W0031 - Renault 1.4 kW Starter
+[2025-06-09 01:46:05] [INFO] Updating product: 300W0011 - Citroen/Peugeot 150A Alternator
+[2025-06-09 01:46:05] [INFO] Updating product: DUR-060R - Citroen/Peugeot 1.4 kW Starter
+[2025-06-09 01:46:05] [INFO] Updating product: 298W0046 - Citroen/Peugeot 1.8 kW Starter
+[2025-06-09 01:46:05] [INFO] Import results: 5 total | 5 updated | 0 created | 0 errors
+[2025-06-09 01:46:05] [INFO] === CRON JOB COMPLETED ===

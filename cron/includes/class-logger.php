@@ -6,13 +6,14 @@ class Logger {
         $this->logFile = $logFile;
     }
     
-    public function log($message) {
+    public function log($message, $level = 'INFO') {
         $timestamp = date('Y-m-d H:i:s');
-        $logEntry = "[$timestamp] $message" . PHP_EOL;
+        $logEntry = "[$timestamp] [$level] $message" . PHP_EOL;
         file_put_contents($this->logFile, $logEntry, FILE_APPEND);
         
-        if (!(php_sapi_name() === 'cli')) {
-            echo htmlspecialchars($message) . "<br>\n";
+        // Output to console when run via CLI
+        if (php_sapi_name() === 'cli') {
+            echo $logEntry;
         }
     }
 }

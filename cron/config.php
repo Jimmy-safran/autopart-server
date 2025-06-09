@@ -18,5 +18,9 @@ return [
     'paths' => [
         'log_file' => __DIR__ . '/cron-log.txt',
         'local_csv' => __DIR__ . '/downloaded.csv'
+    ],
+    'processing' => [
+        'csv_delimiter' => ';',
+        'required_columns' => 21
     ]
 ];
